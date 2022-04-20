@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umarov Kamoliddin</h1>
 <h3 align="center">Web / Mobile Developer</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=I'm+Web+developer;I'm+Web+designer;I'm+Mobile+developer;I'm+UI%2FUX+designer)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzsoftic&label=Profile%20views&color=0e75b6&style=flat" alt="uzsoftic" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzsoftic" alt="uzsoftic" /></a> </p>
