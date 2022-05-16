@@ -3,13 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Web+developer;I'm+Web+designer;I'm+Mobile+developer;I'm+UI%2FUX+designer)](#)
 
-- 🔭 I’m currently working on [OPENSHOP.UZ](openshop.uz)
+- 🔭 I’m currently working on [OPENSHOP.UZ](https://openshop.uz)
 
-- 👨‍💻 All of my projects are available at [softic.uz](softic.uz)
+- 👨‍💻 All of my projects are available at [softic.uz](https://softic.uz)
 
 - 📫 How to reach me **softuzb@gmail.com**
 
-- 📄 Know about my experiences [softic.uz](softic.uz)
+- 📄 Know about my experiences [softic.uz](https://softic.uz)
 
 <h3 align="left">🚀 Connect with me:</h3>
 <p align="left">
