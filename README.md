@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Web+developer;I'm+Web+designer;I'm+Mobile+developer;I'm+UI%2FUX+designer)](#)
 
-- 🔭 I’m currently working on [OPENSHOP.UZ](https://openshop.uz){:target="_blank" rel="noopener"}
+- 🔭 I’m currently working on <a href="https://openshop.uz" target="_blank">OPENSHOP.UZ</a>
 
 - 👨‍💻 All of my projects are available at [softic.uz](https://softic.uz)
 
