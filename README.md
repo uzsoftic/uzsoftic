@@ -5,16 +5,19 @@
 
 - 🔭 I’m currently working on <a href="https://openshop.uz" target="_blank">OPENSHOP.UZ</a>
 
-- 👨‍💻 All of my projects are available at [softic.uz](https://softic.uz)
+- 👨‍💻 All of my projects are available at [https://softic.uz](https://softic.uz)
 
 - 📫 How to reach me **softuzb@gmail.com**
 
-- 📄 Know about my experiences [softic.uz](https://softic.uz)
+- 📄 Know about my experiences [https://softic.uz](https://softic.uz)
 
 <h3 align="left">🚀 Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/uzsoftic" target="blank"><img align="center" src="https://www.svgrepo.com/show/271091/telegram.svg" alt="UzSoftic" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13259801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13259801" height="30" width="40" /></a>
 <a href="https://instagram.com/uzsoftic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uzsoftic" height="30" width="40" /></a>
+<a href="mailto:softuzb@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="UzSoftic" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">🏅 Languages and Tools:</h3>
