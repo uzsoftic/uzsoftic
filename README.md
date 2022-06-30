@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Web+developer;I'm+Web+designer;I'm+Mobile+developer;I'm+UI%2FUX+designer)](#)
 
+<a href="https://wakatime.com/@2d058564-5ca4-4396-bb93-98601c2880f9"><img src="https://wakatime.com/badge/user/2d058564-5ca4-4396-bb93-98601c2880f9.svg" alt="Total time coded since Jun 29 2022" /></a>
+
 - 🔭 I’m currently working on <a href="https://openshop.uz" target="_blank">OPENSHOP.UZ</a>
 
 - 👨‍💻 All of my projects are available at [https://softic.uz](https://softic.uz)
