@@ -22,17 +22,7 @@
 
 </p>
 
-<h3 align="left">🏅 Technology:</h3>
-<p align="left">
-
-</p>
-
-<h3 align="left">🏅 Other:</h3>
-<p align="left">
-
-</p>
-
-<h3 align="left">🏅 Languages and Tools:</h3>
+<h3 align="left">🏅 Technology and Tools:</h3>
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -104,9 +94,6 @@
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a> 
 </p>
 
 <h3 align="left">🏅 Framework:</h3>
@@ -143,13 +130,7 @@
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://camo.githubusercontent.com/de46b228f8902d7f560ee333fb4e21400ca4e7ab851130568ebab6b340eeb8e3/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337333535342f646a616e676f2e737667" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
-    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
-  </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
+  </a>  
 </p>
 
 <h3 align="left">🏅 Datebase, Cache and Index:</h3>
