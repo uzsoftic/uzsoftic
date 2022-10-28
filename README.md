@@ -7,14 +7,16 @@
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true) -->
 </div> 
 
-<!-- ./STAT -->
+<!-- START STATS -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=uzsoftic&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="UzSoftic github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzsoftic&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=uzsoftic&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="UzSoftic github stats" /> 
+   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzsoftic&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=uzsoftic&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Umarov Kamoliddin" /></div>
+<div align="center">
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=uzsoftic&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Umarov Kamoliddin" />
+</div>
+<!-- END STATS -->
 
 <div align="center">   
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -70,6 +72,11 @@
 ## 🏆 GitHub Trophies
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=uzsoftic&theme=onestar&no-frame=true&no-bg=false&margin-w=4&column=8">
+</div>
+
+## 🐍 Snake
+<div align="center"> 
+ <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 ## 🌐 Socials:
