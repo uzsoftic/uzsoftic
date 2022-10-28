@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Umarov Kamoliddin</h1>
-<h3 align="center">Web / Mobile Developer</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Umarov%20Kamoliddin&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Web+developer;I'm+Web+designer;I'm+Mobile+developer;I'm+UI%2FUX+designer)](#)
+ 
+<div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true" />
+<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true) -->
+</div> 
+
+<h1 align="center">Hi 👋, I'm Umarov Kamoliddin</h1>
+<h3 align="center">Web / Mobile Developer</h3>
 
 <a href="https://wakatime.com/@2d058564-5ca4-4396-bb93-98601c2880f9"><img src="https://wakatime.com/badge/user/2d058564-5ca4-4396-bb93-98601c2880f9.svg" alt="Total time coded since Jun 29 2022" /></a>
 
