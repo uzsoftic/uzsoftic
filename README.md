@@ -4,7 +4,6 @@
  
 <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=uzsoftic&theme=react-dark&hide_border=true&area=true" />
-<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true) -->
 </div> 
 
 <!-- START STATS -->
@@ -71,7 +70,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=uzsoftic&theme=onestar&no-frame=true&no-bg=false&margin-w=4&column=8">
+ <img src="https://github-profile-trophy.vercel.app/?username=uzsoftic&theme=onestar&no-frame=true&no-bg=false&margin-w=5&column=7">
 </div>
 
 ## 🐍 Snake
