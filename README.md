@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Web+developer;I'm+Web+designer;I'm+Mobile+developer;I'm+UI%2FUX+designer)](#)
  
-<div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=uzsoftic&theme=react-dark&hide_border=true&area=true" />
-</div> 
 
 <!-- START STATS -->
 <div align="center">  
@@ -90,7 +87,6 @@
 
 ## 📊 GitHub Stats:
 <div align="center"> 
-  <img src="https://visitcount.itsvg.in/api?id=uzsoftic&icon=1&color=0"/>
   <img src="https://komarev.com/ghpvc/?username=uzsoftic&label=Profile%20views&color=0e75b6&style=flat"/>
   <img src="https://wakatime.com/badge/user/2d058564-5ca4-4396-bb93-98601c2880f9.svg"/>
 </div>
