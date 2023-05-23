@@ -70,12 +70,12 @@
  <img src="https://github-profile-trophy.vercel.app/?username=uzsoftic&theme=onestar&no-frame=true&no-bg=false&margin-w=5&column=7">
 </div>
 
-## 🐍 Snake
+## 🐍 Snake GitHub 
 <div align="center"> 
  <img alt="github contribution snake animation" src="github-contribution-grid-snake.svg">
 </div>
 
-## 🌐 Socials:
+## 🌐 Social Accounts:
 <div align="center"> 
  <a href="https://instagram.com/uzsoftic"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
  <a href="https://facebook.com/uzsoftic"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
