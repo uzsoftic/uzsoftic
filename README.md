@@ -14,6 +14,14 @@
 </div>
 <!-- END STATS -->
 
+<h1 align="center">PHP Developer</h1>
+
+I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+
+I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+[![Telegram Badge](https://img.shields.io/badge/@uzsoftic-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/uzsoftic)](https://t.me/uzsoftic) 
+
 <div align="center">   
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
