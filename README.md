@@ -10,40 +10,114 @@
 </div>
 <!-- END STATS -->
 
-<h1 align="center">PHP Developer</h1>
+<p align="center">
+CTO • Co-founder @ OpenShop • Fintech & E-commerce Systems Architect
+</p>
 
-I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+<p align="center">
+Backend (Laravel) • Microservices • High-Load Systems • Payment Infrastructure
+</p>
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+---
 
-[![Telegram Badge](https://img.shields.io/badge/@uzsoftic-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/uzsoftic)](https://t.me/uzsoftic) 
+## 🚀 About Me
 
-<div align="center">   
-</div>
-<div align="center"> 
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</div>
-<div align="center"> 
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-</div>
+I’m a CTO and Co-founder with a strong engineering background, focused on building scalable, high-load systems in fintech and e-commerce.
 
-<div align="center"> 
-  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
+I combine hands-on development with system architecture and technical leadership — designing real-world systems that handle production traffic, payments, and complex integrations.
+
+---
+
+## 🧠 What I Do
+
+- Design and build **scalable microservices architectures**
+- Develop **high-load backend systems** (Laravel, APIs, queues)
+- Build and integrate **payment systems & BNPL services**
+- Optimize performance using **Redis, caching, and load balancing**
+- Manage infrastructure (**Linux, Nginx, Docker, Cloudflare, DigitalOcean**)
+- Implement **monitoring & observability** (Grafana, Prometheus)
+- Develop **AI-powered solutions** (Python, computer vision, self-hosted models)
+
+---
+
+## 💳 Payment & Fintech Experience
+
+Integrated and worked with:
+
+- Click, Payme, Paynet, Sello  
+- Ipak Yuli Bank, Uzum Bank  
+- BNPL: Uzum Nasiya, Paylater, Paynet Nasiya, Alif, Payme Nasiya  
+
+Built:
+- Centralized **payment hub**
+- Multi-provider **callback systems**
+- Real-world **transaction handling flows**
+
+---
+
+## 🏗 Infrastructure & Systems
+
+- High-load systems (large-scale traffic & transactions)
+- Self-hosted **S3-like storage system**
+- MySQL load balancing (**ProxySQL**)
+- API architecture & distributed systems
+- Networking: MikroTik, Kerio
+
+---
+
+## 🧾 Integrations
+
+- Tax & fiscal systems
+- POS & payment terminals
+- Automation of payment and delivery workflows
+
+---
+
+## ⚙️ Tech Stack
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+
+### Infra & DevOps
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-orange?style=for-the-badge&logo=cloudflare)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?style=for-the-badge&logo=digitalocean)
+
+### Data & Performance
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+
+### Monitoring
+![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus)
+
+### AI / Python
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+---
 
 ## 🐍 Snake GitHub 
 <div align="center"> 
  <img alt="github contribution snake animation" src="github-contribution-grid-snake.svg">
 </div>
+
+---
+
+## 📊 GitHub Stats:
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=uzsoftic&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://wakatime.com/badge/user/2d058564-5ca4-4396-bb93-98601c2880f9.svg"/>
+</div>
+
+---
 
 ## 🌐 Social Accounts:
 <div align="center"> 
@@ -53,12 +127,19 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
  <a href="https://stackoverflow.com/users/13259801"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
  <a href="https://linkedin.com/in/uzsoftic"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
  <a href="https://behance.net/uzsoftic"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
-</div>
+</div
 
-## 📊 GitHub Stats:
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=uzsoftic&label=Profile%20views&color=0e75b6&style=flat"/>
-  <img src="https://wakatime.com/badge/user/2d058564-5ca4-4396-bb93-98601c2880f9.svg"/>
-</div>
+---
+
+## 📬 Contact
+
+- Telegram: https://t.me/uzsoftic  
+- LinkedIn: https://linkedin.com/in/uzsoftic  
+
+---
+
+## ⚡ Philosophy
+
+> I don’t just write code — I design and build systems that perform reliably under real-world load.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
